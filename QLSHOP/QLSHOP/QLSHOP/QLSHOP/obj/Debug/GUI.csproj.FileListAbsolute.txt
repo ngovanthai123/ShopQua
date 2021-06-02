@@ -1,0 +1,6 @@
+D:\NAM3\HK2\LAPTRINHQUANLY\QLCHembe\QLCH\QLCH\QLCH\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\NAM3\HK2\LAPTRINHQUANLY\QLCHembe\QLCH\QLCH\QLCH\obj\Debug\QLCH.frmMain.resources
+D:\NAM3\HK2\LAPTRINHQUANLY\QLCHembe\QLCH\QLCH\QLCH\obj\Debug\QLCH.FrmNhanVien.resources
+D:\NAM3\HK2\LAPTRINHQUANLY\QLCHembe\QLCH\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+D:\NAM3\HK2\LAPTRINHQUANLY\QLCHembe\QLCH\QLCH\QLCH\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NAM3\HK2\LAPTRINHQUANLY\QLCHembe\QLCH\QLCH\QLCH\obj\Debug\GUI.csproj.CoreCompileInputs.cache
